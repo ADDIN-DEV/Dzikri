@@ -101,4 +101,4 @@ let embed = new Discord.MessageEmbed()
 });
 
 
-bot.login("ODE0MDAwMzQ2ODg4MjczOTMw.YDXe5g.drrhPqEQiBMppZYjXWue5TArsWc");
+bot.login("BOT_TOKEN");
