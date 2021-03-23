@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "hello-express",
   "version": "1.0.2",
-  "description": "Dzikri BOT using discord.js.",
+  "description": "Dzikri Bot using discord.js.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
